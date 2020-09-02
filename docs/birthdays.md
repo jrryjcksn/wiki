@@ -2,8 +2,8 @@
 
 # Birthdays
 
-| Who   | When     | Gift      |
-|-------|----------|-----------|  
-| Paw   | 01/01/20 | Whiskey   |
-| Maw   | 05/08/23 | Flowers   |
-| Sis   | 08/09/42 | Gift Card |
+| Who    | When     | Gift      |
+|--------|----------|-----------|
+| Kelly  | 07/04/60 |           |
+| Amber  | 03/16/89 |           |
+| Justin | 09/30/91 |           |

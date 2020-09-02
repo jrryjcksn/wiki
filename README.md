@@ -1,4 +1,4 @@
-# My Personal Wiki
+# Jerry's Wiki
 
 - [Stuff to Buy](docs/stuff_to_buy.md)
 - [Movies to Watch](docs/movies_to_watch.md)
